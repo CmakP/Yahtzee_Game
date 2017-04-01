@@ -1,0 +1,1 @@
+The game consists of 8 rounds. In each round the player rolls 5 dice and then scores the roll in one of 8 categories. Choose startTheGame() from the object bench to start playing.
